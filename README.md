@@ -1,2 +1,2 @@
-# modulo1
-Referente a atividade do módulo 1 do curso de ciências de dados da EBAC
+# Aula prática operadores (google colab)
+Referente a atividade prática do curso de ciência de dados da EBAC
